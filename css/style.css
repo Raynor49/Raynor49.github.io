@@ -19,13 +19,22 @@ body {
   background: #fff;
 }
 
+img{
+  width: 100px;
+  height: 100px;
+}
+
+.css-image{
+  width: 200px;
+}
+
 .profile-pic{
   border-radius: 20px;
 }
 
 .projects{
   color: white;
-  
+
 }
 
 #page {
